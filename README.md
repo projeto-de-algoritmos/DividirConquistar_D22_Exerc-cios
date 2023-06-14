@@ -1,45 +1,32 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios D&C
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 22<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                      |
+| ---------- | -------------------------- |
+| 20/0042360 | Nicolas Roberto de Queiroz |
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Sobre
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Resolução de exercícios online relacionados aos conteúdos abordados módulo de Dividir e Conquistar.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## Uso
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Entre no site disponibilizado em cada exercício e utilize seu respectivo código para submeter, é necessário fazer login para submeter algum código.
 
+## Exercício 1 - Reverse Pairs
 
+Entre no link do [problema](https://leetcode.com/problems/reverse-pairs/) e use o [código](Reverse-Pairs/solve.cpp) disponibilizado.
 
+**Linguagem**: C++<br>
 
+### Screenshots
+
+![Reverse Pairs](Reverse-Pairs/assets/figura1.png)
+
+### Vídeo explicando a solução
+
+Produzindo...
