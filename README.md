@@ -29,4 +29,4 @@ Entre no link do [problema](https://leetcode.com/problems/reverse-pairs/) e use 
 
 ### Vídeo explicando a solução
 
-Produzindo...
+[Vídeo explicando](Reverse-Pairs/assets/video1.mp4)
